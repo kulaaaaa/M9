@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Władca pierścieni",
+    "author": "John Ronald Reuel Tolkien",
+    "publisher": "Allen & Unwin",
+    "description": " Czarodziej Gandalf po przybyciu do Shire, kraju hobbitów odkrywa, że magiczny pierścień będący w posiadaniu hobbita Bilbo Bagginsa to w rzeczywistości Jedyny Pierścień stworzony przez władcę ciemności, Saurona, który pozwala kontrolować inne Pierścienie Władzy. Jeśli Sauron odzyska pierścień całe Śródziemie czeka zagłada, a jedynym sposobem na jego zniszczenie jest wrzucenie go w czeluście Orodruiny, gdzie został wykuty. Zadania tego podejmuje się krewny Bilba, Frodo.",
+    "pages": "355"
+  },
+  {
+    "id": 2,
+    "title": "Kod Leonarda da Vinci",
+    "author": "Dan Brown",
+    "publisher": "Sonia Draga",
+    "description": "Jacques Saunière, kustosz Luwru, zostaje zamordowany. Francuska policja opomoc w śledztwie zwraca się do Roberta Langdona, specjalisty odsymboli. Okazuje się, że na miejscu zbrodni znajduje się wiele śladów, \nktóre mogą pomóc w ustaleniu zabójcy, ale też stanowią klucz do jeszczewiększej zagadki − niezwykłej tajemnicy sięgającej korzeniami początkówchrześcijaństwa.",
+    "pages": "568"
+  },
+  {
+    "id": 3,
+    "title": "Pachnidło. Historia pewnego mordercy.",
+    "author": "Patrick Suskind ",
+    "publisher": "W.A.B.",
+    "description": "W slumsach osiemnastowiecznej Francji rodzi się Jean-BaptisteGrenouille. Ma wspaniały dar – węch absolutny. Zostaje zatrudniony uwybitnego paryskiego perfumiarza, który uczy go wykorzystywać ten dar dotworzenia unikatowych perfum. Nie jest to dla niego wystarczające. Chceza wszelką cenę uchwycić zapachy przedmiotów – mosiężnej klamki czy \nświeżo ściętego drzewa. Pewnego dnia jego nos wychwytuje nutę zapachu, \nktóry doprowadzi go do obsesji, przerażającej misji stworzenia perfumidealnych - zapachu pięknej młodej dziewicy. Opowiedziana z olśniewającą\n błyskotliwością narracji, Pachnidło to zapadająca w pamięć opowieść omorderstwie i zmysłowej deprawacji.",
+    "pages": "320"
+  },
+  {
+    "id": 4,
+    "title": "Mistrz i Małgorzata",
+    "author": "Michaił BUłhakow",
+    "publisher": "Świat Ksiązki",
+    "description": "„Mistrz i Małgorzata” to fascynujący i ponadczasowy obraz walki dobra izła. Woland, Behemot, Małgorzata są bohaterami wielobarwnymi, z którymimożna się utożsamiać. Powieść bawi, wzrusza, zaskakuje i skłania dorefleksji filozoficznych. Bułhakow doskonale splótł historię miłości pisarza, zwanego Mistrzem, iMałgorzaty Nikołajewny z ponurymi i zarazem groteskowymi realiami Rosji zlat trzydziestych XX wieku. Wątek z historią Poncjusza Piłataskazującego na śmierć wędrownego filozofa Jeszuę Ha-Nocri stanowijednocześnie powieść w powieści.",
+    "pages": "360"
+  },
+  {
+    "id": 6,
+    "title": "Zbrodnia i kara",
+    "author": "Fiodor Dostojewski",
+    "publisher": "MG",
+    "description": "Słynna powieść Fiodora Dostojewskiego, opowiadająca o losach byłegostudenta Rodiona Raskolnikowa, który postanawia zamordować i obrabować \nbogatą lichwiarkę.Pomysł na tę powieść narodził się w czasie, kiedy sam autor przebywał nakatordze. Zainteresował się wtedy psychologią współwięźniów, wśródktórych byli i tacy, którzy zostali skazani za morderstwo.Bohater powieści, 23-letni były student prawa jest półsierotą, ma jednakkochająca rodzinę. Jego matka i siostra darzą go głęboką miłością iwspierają finansowo.",
+    "pages": "578"
+  }
+]
